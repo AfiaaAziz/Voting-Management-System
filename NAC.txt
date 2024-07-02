@@ -1,0 +1,2 @@
+10012               Ali            Male           Bat            PTI            19990          House#55-Isb   
+10013               Fatima         Female         BAT            PTI            12229          House#55-Rwp   
